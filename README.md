@@ -2,7 +2,7 @@
 - 👀 I’m interested in Discord Bot Development!
 - 🌱 I’m currently learning JavaScript And Python!
 - 💞️ I’m looking to collaborate on Discord Bot!
-- 📫 Reach me Discord - Imagine#2077!
+- 📫 Reach me Discord - <a href="https://discordapp.com/users/852772849574871110/" target="_main"> Discord</a>
 
 <!---
 Imagine2077/Imagine2077 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

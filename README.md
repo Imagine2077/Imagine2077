@@ -5,7 +5,7 @@
 </h1>
 
 - 👀 I’m interested in Discord Bot Development!
-- 🌱 I’m currently learning JavaScript And Python!
+- 🌱 I’m currently learning JavaScrip!
 - 💞️ I’m looking to collaborate on Discord Bot!
 - 📫 Reach me on - <a href="https://discordapp.com/users/852772849574871110/" target="_main"> Discord</a>
 
